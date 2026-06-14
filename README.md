@@ -2,17 +2,16 @@
 Official repository for the Loc Nation Dollar (LND), the Official Black Dollar of the State of Loc Nation framework.
 That's a fair distinction if you're writing from the perspective of the State of Loc Nation's own constitutional, treasury, and monetary framework rather than analyzing it through another country's legal system.
 
-For a Wiki page, white paper, or monetary framework document, you could state:
 
 LND (LOC NATION DOLLAR)
 
-Official Currency of the State of Loc Nation
+Official Currency of the State of Loc Nation Global Public Benefit Corporation
 
 The Loc Nation Dollar (LND) is the official currency, unit of account, treasury settlement instrument, and monetary standard of the State of Loc Nation.
 
 Established to support economic development, restitution, community empowerment, and intergenerational wealth creation, the LND functions as the primary monetary instrument of the State of Loc Nation financial system.
 
-The LND operates through the State of Loc Nation Treasury, Central Monetary Authority, and associated financial institutions. It serves as a medium of exchange, unit of account, store of value, treasury reserve instrument, and settlement mechanism for programs, initiatives, and economic activities conducted within the State of Loc Nation framework.
+The LND operates through the State of Loc Nation Treasury, Central Monetary Authority, and associated financial institutions. It serves as a medium of exchange, unit of account, store of value, treasury reserve instrument, and settlement mechanism for programs, initiatives, and economic activities conducted within the State of Loc Nation framework. (Parallel to the USD framework)
 
 Monetary Purpose
 
@@ -66,7 +65,7 @@ Public Benefit Currency
 
 Monetary Philosophy
 
-The LND represents a monetary framework intended to support freedom, justice, restitution, self-determination, economic participation, and community prosperity.
+The LND represents a monetary framework intended to support freedom, justice, restitution, self-determination, economic participation, and community prosperity. ($1 LND: $750 USD) 
 
 Currency Series
 
@@ -101,6 +100,7 @@ Restitution Development Fund
 Motto
 
 Freedom • Justice • Restitution
+<img width="1200" height="768" alt="Resized LND pdf" src="https://github.com/user-attachments/assets/2369b103-6532-4f55-86a7-e6c966400a1c" />
 
-LET THE RECORD STAND.
+LET THE RECORD STAND. [(https://stateoflocnation.com/soln-central-bank-gova00]
 

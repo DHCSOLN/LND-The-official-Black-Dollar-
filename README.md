@@ -104,3 +104,7 @@ Freedom • Justice • Restitution
 
 LET THE RECORD STAND. [(https://stateoflocnation.com/soln-central-bank-gova00]
 
+Status: Active
+Version: 1.0.0
+Registry Type: Currency Registry
+Maintainer: State of Loc Nation Central Bank
